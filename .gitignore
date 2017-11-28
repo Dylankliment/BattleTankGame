@@ -73,3 +73,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Battletank/Content/StarterContent/
+Battletank/Build/
+Battletank/Binaries/
+Battletank/Saved/
